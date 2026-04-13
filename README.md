@@ -1,2 +1,2 @@
 # Capstone
-Capstone Github lorenzo
+Capstone Github
