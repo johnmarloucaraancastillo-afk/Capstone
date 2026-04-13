@@ -11,6 +11,6 @@
         echo "Hello, World!";
     ?>
     <p>This is a simple PHP test page.</p>
-    
+    <h1>PHP Info</h1>
 </body>
 </html>
